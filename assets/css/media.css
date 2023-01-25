@@ -1,0 +1,16 @@
+@media only screen and (max-width: 991px){
+    .menu{
+        display: flex;
+    }
+  
+    .nav-item{
+    display: none;
+    flex-basis: 100%;
+    justify-content: center;
+    flex-direction: column;
+  }
+    
+  .nav-item__link{
+    padding: 10px 0;
+  }
+}
