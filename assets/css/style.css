@@ -165,6 +165,7 @@ header{
     height: 300px;
     border: 2px solid green;
     margin: 200px;
+    background-color: chartreuse ;
 }
 
 .close{
